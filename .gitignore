@@ -9,6 +9,3 @@ Thumbs.db
 # Build Files
 dist
 .parcel-cache
-
-# Vendors
-node_modules/
